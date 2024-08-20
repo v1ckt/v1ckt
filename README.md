@@ -45,5 +45,8 @@ Here are some ideas to get you started:
   </div>
   
   </div>
-  </div>  
+  </div> 
+
+![Snake animation](https://raw.githubusercontent.com/v1ckt/v1ckt/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
