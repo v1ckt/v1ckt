@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="left">
+<div align="center">
   <img height="180em" src="bg.png" />
-  
+  <div align="left">
   <div>
     
   ## About me
@@ -44,5 +44,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/txvkt/"><img src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
   
+  </div>
   </div>
 </div>
