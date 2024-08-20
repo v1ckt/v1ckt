@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+
+<img with="100%" src="bg.png" />
   
   ## Technologies I use
   
