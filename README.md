@@ -8,6 +8,8 @@
   I also like photography related stuff, that's what I like doing in my free time 📸.<br>
   I got a baby 🐈, his name's Freddy.<br><br>
   <img src="https://komarev.com/ghpvc/?username=v1ckt&color=0665bb&style=for-the-badge" />
+
+  [![Visits Badge](https://badges.pufler.dev/visits/v1ckt/v1ckt)](https:v1ckt.github.io)
 </div>
   
   ## Technologies I use
