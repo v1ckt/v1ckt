@@ -7,7 +7,7 @@
   I really enjoy programing and creating user interfaces as much as I like coffee ☕️ (that's what keeps me awake and alert lol).<br>
   I also like photography related stuff, that's what I like doing in my free time 📸.<br>
   I got a baby 🐈, his name's Freddy.<br><br>
-  <img src="https://komarev.com/ghpvc/?username=v1ckt&color=0665bb&label=Visits&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=v1ckt&color=0665bb&label=Visits&&abbreviated=tru&style=for-the-badge" />
 </div>
   
   ## Technologies I use
