@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/tailwind%20css-00acc1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled%20components-f46282.svg?style=for-the-badge&logo=StyledComponents&logoColor=white" />
   
   <img src="https://raw.githubusercontent.com/v1ckt/v1ckt/output/github-contribution-grid-snake-dark.svg" />
   
