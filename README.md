@@ -21,15 +21,15 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/styled%20components-f46282.svg?style=for-the-badge&logo=StyledComponents&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter-027DFD.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   
   <img src="https://raw.githubusercontent.com/v1ckt/v1ckt/output/github-contribution-grid-snake-dark.svg" />
   
 <div>
   
   ## Social and contact
-  These are some of my social media and contacts:<br>
+  Contact me:<br>
 <div>
-  <a href="https://www.instagram.com/vickt_tx/"><img src="https://img.shields.io/badge/instagram-e1306c.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/txvkt/"><img src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:txvicktor@gmail.com"> <img src="https://img.shields.io/badge/txvicktor@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
