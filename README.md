@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/styled%20components-f46282.svg?style=for-the-badge&logo=StyledComponents&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-027DFD.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-  [![Vicktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1ckt)](https://github.com/v1ckt/)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
     
 <div>
   
