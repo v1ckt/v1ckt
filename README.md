@@ -29,7 +29,7 @@ I have a strong foundation in various programming languages and technologies. My
 Contact me:<br>
 <a href="https://www.linkedin.com/in/txvkt/"><img src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:txvicktor@gmail.com"> <img src="https://img.shields.io/badge/txvicktor@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=v1ckt&show_icons=true&theme=radical)](https://github.com/v1ckt)
 </div>
 
 <div/>
