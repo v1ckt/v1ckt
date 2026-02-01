@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/styled%20components-f46282.svg?style=for-the-badge&logo=StyledComponents&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-027DFD.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+
+[![Vicktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1ckt)](https://github.com/v1ckt/github-readme-stats)
     
 <div>
   
