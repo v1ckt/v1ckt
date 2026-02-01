@@ -3,14 +3,14 @@
 <div align="left">
 <div>
   
-  ## About me
+  # About me
   I really enjoy programing and creating user interfaces as much as I like coffee ☕️ (that's what keeps me awake and alert lol).<br>
   I also like photography related stuff, that's what I like doing in my free time 📸.<br>
   I got a baby 🐈, his name's Freddy.<br><br>
   <img src="https://komarev.com/ghpvc/?username=v1ckt&color=0665bb&label=Visits&&abbreviated=tru&style=for-the-badge" />
 </div>
   
-  ## Technologies I use
+  # Technologies I use
   I have a strong foundation in various programming languages and technologies. My core proficiencies include:<br><br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,7 +25,7 @@
     
 <div>
   
-  ## Social and contact
+  # Social and contact
   Contact me:<br>
 <div>
   <a href="https://www.linkedin.com/in/txvkt/"><img src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
