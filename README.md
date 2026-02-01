@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=v1ckt&color=0665bb&label=Visits&&abbreviated=tru&style=for-the-badge" />
 </div>
   
-  # Technologies I use
+  # My stack
   I have a strong foundation in various programming languages and technologies. My core proficiencies include:<br><br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
